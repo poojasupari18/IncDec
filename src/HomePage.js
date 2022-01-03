@@ -6,7 +6,7 @@ function HomePage ({value}){
 
   
     const state = useContext(DataContext)
-    {console.log("state", state)}
+    
    
     
 
